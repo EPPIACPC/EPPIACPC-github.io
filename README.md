@@ -1,1 +1,1 @@
-# EPPIACPC-github.io
+# EPPIACPC.github.io
